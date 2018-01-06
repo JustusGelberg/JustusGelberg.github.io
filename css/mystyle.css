@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+img {
+  position: absolute;
+  bottom: 5px;
+
+}
+
+p {
+  font-size: 300%;
+  position: absolute;
+  color: rgb(171, 87, 23);
+  top: -30px;
+  left: 340px;
+
+
+
+}
+
+
+
+a {
+position: fixed;
+left: 340px;
+top: 70px;
+font-size: 120%;
+color: rgb(171, 87, 23);
+
+
+}
+
+#gay {
+  position: absolute;
+  right: 5px;
+}
