@@ -14,11 +14,12 @@ img {
 }
 
 p {
-  font-size: 300%;
+  font-family: helvetica;
+  font-size: 130%;
   position: absolute;
   color: rgb(171, 87, 23);
-  top: -30px;
-  left: 340px;
+  top: 1.1%;
+  left: 13.5%;
 
 
 
@@ -27,10 +28,11 @@ p {
 
 
 a {
+font-family: helvetica;
 position: fixed;
-left: 340px;
-top: 70px;
-font-size: 120%;
+left: 13.5%;
+top: 0.8%;
+font-size: 130%;
 color: rgb(171, 87, 23);
 
 
