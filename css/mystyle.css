@@ -19,26 +19,28 @@ p {
   position: absolute;
   color: rgb(171, 87, 23);
   top: 1.1%;
-  left: 13.5%;
-
-
-
+  right: 0.85%;
 }
-
-
 
 a {
 font-family: helvetica;
 position: fixed;
-left: 13.5%;
+right: 0.85%;
 top: 0.8%;
 font-size: 130%;
 color: rgb(171, 87, 23);
-
-
 }
 
 #gay {
   position: absolute;
   right: 5px;
+  width: 50%;
+}
+
+#paul{
+  height:30vh;
+}
+
+#zimmer{
+  height:67vh;"
 }
